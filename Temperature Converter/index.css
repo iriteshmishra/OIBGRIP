@@ -1,0 +1,65 @@
+body{
+    background-color: #FFFF8A;
+}
+.conver{
+    margin: 180px;
+    size: 30px;
+    width: fit-content;
+}
+
+#conver{
+    font-size: 20px;
+    box-shadow: violet;
+}
+
+#conver{
+    background-color: rgb(194, 173, 153);
+}
+hr {
+    color: blue;
+    width: 50%;
+}
+
+#convtemp{
+    background-color: rgba(214, 191, 140, 0.9);
+    color: #008b8b;
+    font-size: 40px;
+    margin-left: 360px;
+    border-radius: 18px;
+    padding: 15px;
+    border: 4px solid red;
+}
+
+#convtemp input{
+    color: rgb(0, 0, 0);
+    size: 60px;
+    width: 260px;
+    height: 30px;
+    border-radius: 0px;
+    padding: 4px;
+    margin-left: 2px;
+}
+
+#unit{
+    height: 30px;
+    font-size: 20px;
+    float: right;
+    border-radius: 5px;
+    padding: 4px;
+}
+
+#unit:hover{
+    background-color: rgb(255, 156, 134); 
+}
+
+.submit{
+    text-align: center;
+    width: 100px;
+    background-color: rgb(159, 0, 180);
+    border-radius: 10px;
+    font-size: 18px;
+}
+
+.submit:hover{
+    background-color: rgb(255, 156, 134);
+}
