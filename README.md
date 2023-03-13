@@ -1,4 +1,4 @@
-# OIBGRIP
+# OIBGRIP I didn't have a internship cerificate because I didn't gave certificate fee. I just wanted to learn. 
 All 3 tasks of Level-1 of Web Developement and Desigining are available here.
 
 Task 1(Landing Page): https://github.com/iriteshmishra/OIBGRIP/tree/master/Landing%20Page
